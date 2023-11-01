@@ -9,4 +9,11 @@ Media Query help adjust the piano width based on the viewport.
 Pseudo selectors and elements are used to create these black keys:
 ![image](https://github.com/kylehraja/Piano/assets/140476247/0e70be3a-a57c-448b-b3b3-e79602a0a51a)
 
+How to run webpage:
+
+1) Download and unzip the Piano.zip file.
+2) Open in vscode.
+3) Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+4) Open the index.html and run the code (Windows shortcut key: ALT+L+O).
+
 
